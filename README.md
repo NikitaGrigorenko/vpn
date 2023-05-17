@@ -4,4 +4,4 @@
 3) `sudo apt install docker` and `sudo apt install docker-compose` for installing docker and docker-compose accordingly
 
 # Start of the VPN service
-1) You can just run `sh vpn-serv.sh` to start the VPN service
+1) You can just run `sh vpn-serv.sh` in the directory with this script and other files to start the VPN service
